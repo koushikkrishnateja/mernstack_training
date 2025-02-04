@@ -1,0 +1,10 @@
+jsx rules
+1.Every element must be closed.
+2.if more then 
+syntax:- class app extends React.Component{
+    
+} 
+
+props:-
+propr is an object.
+props is nothing but properties
