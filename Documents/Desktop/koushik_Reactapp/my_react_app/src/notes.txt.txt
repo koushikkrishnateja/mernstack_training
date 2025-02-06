@@ -8,3 +8,16 @@ syntax:- class app extends React.Component{
 props:-
 propr is an object.
 props is nothing but properties
+
+
+
+
+props drilling
+
+
+
+
+
+
+
+
